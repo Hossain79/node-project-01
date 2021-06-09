@@ -1,8 +1,12 @@
 # Autograding Example: Node
-This example project is written in Node, and tested with Jest.
+This is a simple node.js project. This project included a test file for grading purpose. 
 
 ### The assignment
-The tests are failing right now because we're not returning the correct string. Fixing this up will make the tests green.
+Right now test is failing because there is a different between hello.js and hello.test.js file. 
+1. accept the assignment.
+2. open hello.js edit the file. it should return 'Hello world!' istead of 'Hello!'
+3. save the changes. Fixing this up will make the tests green.
+
 
 ### Setup command
 `npm install`
@@ -11,4 +15,4 @@ The tests are failing right now because we're not returning the correct string. 
 `npm test`
 
 ### Notes
-- 
+- Good luck!
